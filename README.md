@@ -41,3 +41,7 @@ Drivers are most likely to accept coupons when the offer aligns with existing ha
 
 ## Notebook Link
 [View the Jupyter Notebook]()
+
+## IMPORTANT 
+- In order to run the ipynb , do change the location of the csv file by downloading the dataset from the repository onto local machine and providing the link to pd.read_csv(). 
+
