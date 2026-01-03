@@ -23,7 +23,8 @@ The analysis focuses on behavioral, demographic, and contextual features such as
 
 ## 3. Additional Insights
 - Convenience factors such as short travel time and favorable direction support acceptance.  
-- Environmental conditions like weather can influence behavior; e.g., rain may discourage drivers from redeeming certain coupons.  
+- Environmental conditions like weather can influence behavior; e.g., rain may discourage drivers from redeeming certain coupons.
+- Acceptance rate is a lot higher for takeaways pointing to drivers preference to avail coupons on the way. 
 - These findings can inform customer segmentation, helping companies target drivers who are most likely to accept coupons and optimize operational costs.
 
 ---
